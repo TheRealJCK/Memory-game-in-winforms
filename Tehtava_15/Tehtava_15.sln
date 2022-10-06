@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tehtava_15", "Tehtava_15\Tehtava_15.csproj", "{757A3822-5BB4-413B-A2FD-F9490F0EA8AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_15Tests", "Tehtava_15Tests\Tehtava_15Tests.csproj", "{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757A3822-5BB4-413B-A2FD-F9490F0EA8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757A3822-5BB4-413B-A2FD-F9490F0EA8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757A3822-5BB4-413B-A2FD-F9490F0EA8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757A3822-5BB4-413B-A2FD-F9490F0EA8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45D09E2-07BF-4420-BCCF-BEBC81A431DB}
+	EndGlobalSection
+EndGlobal
