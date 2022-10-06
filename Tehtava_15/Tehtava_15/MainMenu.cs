@@ -52,7 +52,7 @@ namespace Tehtava_15
             Controls.Remove(Layout6x6);
             Controls.Remove(Layout4x4);
 
-            _controller.MakFundamentals();
+            _controller.MakeFundamentals();
 
             await Task.Delay(800);
             _controller.ShowAllAnswer();
@@ -71,7 +71,7 @@ namespace Tehtava_15
             Controls.Remove(Layout6x6);
             Controls.Remove(Layout4x4);
 
-            _controller.MakFundamentals();
+            _controller.MakeFundamentals();
             _controller.Timer(true);
 
         }

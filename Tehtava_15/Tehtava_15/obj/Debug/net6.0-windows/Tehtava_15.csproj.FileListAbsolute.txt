@@ -17,3 +17,15 @@ C:\Users\Jimmy Chen\source\repos\graafiset-kayttoliittymat-perusteet-TheRealJCK\
 C:\Users\Jimmy Chen\source\repos\graafiset-kayttoliittymat-perusteet-TheRealJCK\15_Lopputyo\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\ref\Tehtava_15.dll
 C:\Users\Jimmy Chen\source\repos\graafiset-kayttoliittymat-perusteet-TheRealJCK\15_Lopputyo\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.MainMenu.resources
 C:\Users\Jimmy Chen\source\repos\graafiset-kayttoliittymat-perusteet-TheRealJCK\15_Lopputyo\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.GameStructure.Controller.resources
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.csproj.AssemblyReference.cache
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.GameStructure.Controller.resources
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.MainMenu.resources
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.Properties.Resources.resources
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.csproj.GenerateResource.cache
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.AssemblyInfoInputs.cache
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.AssemblyInfo.cs
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.dll
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\refint\Tehtava_15.dll
+C:\Users\Jimmy Chen\source\repos\Memory-game-in-winforms\Tehtava_15\Tehtava_15\obj\Debug\net6.0-windows\Tehtava_15.pdb

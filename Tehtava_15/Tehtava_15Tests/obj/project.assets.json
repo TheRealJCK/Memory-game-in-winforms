@@ -6233,11 +6233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jimmy Chen\\source\\repos\\graafiset-kayttoliittymat-perusteet-TheRealJCK\\15_Lopputyo\\Tehtava_15\\Tehtava_15Tests\\Tehtava_15Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Jimmy Chen\\source\\repos\\Memory-game-in-winforms\\Tehtava_15\\Tehtava_15Tests\\Tehtava_15Tests.csproj",
       "projectName": "Tehtava_15Tests",
-      "projectPath": "C:\\Users\\Jimmy Chen\\source\\repos\\graafiset-kayttoliittymat-perusteet-TheRealJCK\\15_Lopputyo\\Tehtava_15\\Tehtava_15Tests\\Tehtava_15Tests.csproj",
+      "projectPath": "C:\\Users\\Jimmy Chen\\source\\repos\\Memory-game-in-winforms\\Tehtava_15\\Tehtava_15Tests\\Tehtava_15Tests.csproj",
       "packagesPath": "C:\\Users\\Jimmy Chen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jimmy Chen\\source\\repos\\graafiset-kayttoliittymat-perusteet-TheRealJCK\\15_Lopputyo\\Tehtava_15\\Tehtava_15Tests\\obj\\",
+      "outputPath": "C:\\Users\\Jimmy Chen\\source\\repos\\Memory-game-in-winforms\\Tehtava_15\\Tehtava_15Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6258,8 +6258,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Jimmy Chen\\source\\repos\\graafiset-kayttoliittymat-perusteet-TheRealJCK\\15_Lopputyo\\Tehtava_15\\Tehtava_15\\Tehtava_15.csproj": {
-              "projectPath": "C:\\Users\\Jimmy Chen\\source\\repos\\graafiset-kayttoliittymat-perusteet-TheRealJCK\\15_Lopputyo\\Tehtava_15\\Tehtava_15\\Tehtava_15.csproj"
+            "C:\\Users\\Jimmy Chen\\source\\repos\\Memory-game-in-winforms\\Tehtava_15\\Tehtava_15\\Tehtava_15.csproj": {
+              "projectPath": "C:\\Users\\Jimmy Chen\\source\\repos\\Memory-game-in-winforms\\Tehtava_15\\Tehtava_15\\Tehtava_15.csproj"
             }
           }
         }

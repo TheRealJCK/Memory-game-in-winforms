@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tehtava_15", "Tehtava_15\Tehtava_15.csproj", "{757A3822-5BB4-413B-A2FD-F9490F0EA8AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_15Tests", "Tehtava_15Tests\Tehtava_15Tests.csproj", "{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tehtava_15Tests", "Tehtava_15Tests\Tehtava_15Tests.csproj", "{6B897D1A-F1E6-4D79-9FAC-F7C82D732684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
